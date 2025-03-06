@@ -33,7 +33,7 @@
   <a href="https://github.com/Peharge/Linux/tree/main/debian">
     <img src="https://skillicons.dev/icons?i=debian" alt="Debian"/>
   </a>
-  <a href="https://github.comPeharge/Linux/tree/main/arch">
+  <a href="https://github.com/Peharge/Linux/tree/main/arch">
     <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux"/>
   </a>
   <a href="https://github.com/Peharge/Linux/tree/main/mint">
