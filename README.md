@@ -23,9 +23,8 @@
 
 # Linux
 
-> [!IMPORTANT]
-> 🚀 Soon!!!
-
+> [!WARNING]  
+> 🚀 Coming soon! Stay tuned for updates.
 
 <p align="left">
   <a href="https://github.com/Peharge/Linux/tree/main/ubuntu">
