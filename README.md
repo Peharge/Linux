@@ -22,7 +22,19 @@
 # Linux
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,debian,arch,mint,kali" alt="OS"/>
+  <a href="https://github.com/Peharge/Linux/tree/main/ubuntu">
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu"/>
+  </a>
+  <a href="https://github.com/Peharge/Linux/tree/main/debian">
+    <img src="https://skillicons.dev/icons?i=debian" alt="Debian"/>
+  </a>
+  <a href="https://github.comPeharge/Linux/tree/main/arch">
+    <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux"/>
+  </a>
+  <a href="https://github.com/Peharge/Linux/tree/main/mint">
+    <img src="https://skillicons.dev/icons?i=mint" alt="Linux Mint"/>
+  </a>
+  <a href="https://github.com/Peharge/Linux/tree/main/kali">
+    <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux"/>
   </a>
 </p>
