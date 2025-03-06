@@ -23,6 +23,10 @@
 
 # Linux
 
+> [!IMPORTANT]
+> 🚀 Soon!!!
+
+
 <p align="left">
   <a href="https://github.com/Peharge/Linux/tree/main/ubuntu">
     <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu"/>
