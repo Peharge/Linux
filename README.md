@@ -15,6 +15,8 @@
 <img alt="" src="https://img.shields.io/badge/-Arch Linux-1793D1?logo=Arch-Linux&logoColor=white">
 <img alt="" src="https://img.shields.io/badge/-Linux Mint-87CF3E?logo=Linux-Mint&logoColor=white">
 <img alt="" src="https://img.shields.io/badge/-Kali Linux-557C94?logo=Kali-Linux&logoColor=white">
+<br>
+<br>
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 </div>
