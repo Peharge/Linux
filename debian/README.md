@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch" alt="OS" width="250"/>
+    <img src="https://skillicons.dev/icons?i=debian" alt="OS" width="250"/>
   </a>
 </p>
 <br>
