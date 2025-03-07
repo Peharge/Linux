@@ -30,7 +30,7 @@ Admittedly, Windows is still my primary operating system, and that isn’t going
 
 Back when I got my first PC at the age of 8, I never would have thought that I would later speak about Linux in front of an audience. At that time, I didn’t know much about the world of open source or the different Linux distributions, but one thing was clear: My PC had 250 MB of RAM, and the only thing I really knew back then was how many characters I could type into a text editor before my computer simply crashed. It was a time of learning, experimenting—and an unconscious encounter with a Linux environment, even though I didn’t realize at the time that I was interacting with it.
 
-Nearly five years later, I got a Windows 10 PC when I started homeschooling. Back then, my technical repertoire was still quite limited: I mainly used Edge, Word, and experimented with Tinkercad for small projects. However, the drive for more knowledge and challenges remained.
+Nearly three years later, I got a Windows 10 PC when I started homeschooling. Back then, my technical repertoire was still quite limited: I mainly used Edge, Word, and experimented with Tinkercad for small projects. However, the drive for more knowledge and challenges remained.
 
 Then came a turning point: about three years ago, when I started working with my new Windows 11 PC and seriously delved into C++ and Visual Studio. It was exciting to take the first steps into the world of programming, and I began using PowerShell, even though I wasn’t exactly a fan of the console. I longed for something more flexible and open.
 
@@ -54,7 +54,7 @@ Zugegeben, Windows ist nach wie vor mein Hauptbetriebssystem, und das wird sich,
 
 Schon damals, als ich meinen ersten PC mit 8 Jahren bekam, hätte ich nie gedacht, dass ich später mal vor einem Publikum über Linux sprechen würde. Zu dieser Zeit wusste ich noch nicht viel über die Welt des Open Source oder der verschiedenen Linux-Distributionen, aber eines war klar: Mein PC hatte 250 MB RAM, und das einzige, was ich damals wirklich wusste, war, wie viele Zeichen ich in einem Texteditor eintippen konnte, bevor mein Computer einfach zusammenbrach. Es war eine Zeit des Lernens, des Experimentierens – und der ersten unbewussten Begegnung mit einer Linux-Umgebung, auch wenn ich damals nicht wusste, dass ich damit interagierte.
 
-Fast 5 Jahre später bekam ich dann einen Windows 10 PC, als ich mit Home-Schooling begann. Damals war mein technisches Repertoire noch recht begrenzt: Ich benutzte hauptsächlich Edge, Word und experimentierte mit Tinkercad für kleinere Projekte. Doch der Drang nach mehr Wissen und nach Herausforderungen blieb.
+Fast 3 Jahre später bekam ich dann einen Windows 10 PC, als ich mit Home-Schooling begann. Damals war mein technisches Repertoire noch recht begrenzt: Ich benutzte hauptsächlich Edge, Word und experimentierte mit Tinkercad für kleinere Projekte. Doch der Drang nach mehr Wissen und nach Herausforderungen blieb.
 
 Dann kam ein Wendepunkt: vor etwa drei Jahren, als ich mit meinem neuen Windows 11 PC begann, mich ernsthaft mit C++ und Visual Studio zu beschäftigen. Es war spannend, die ersten Schritte in die Welt des Programmierens zu wagen, und ich begann, die PowerShell zu verwenden, obwohl ich nicht gerade ein Fan dieser Konsole war. Ich sehnte mich nach etwas Flexiblerem und Offenerem.
 
