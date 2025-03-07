@@ -12,3 +12,8 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 </div>
+
+# _Kali Linux_
+
+> [!WARNING]  
+> 🚀 Coming soon! Stay tuned for updates.
