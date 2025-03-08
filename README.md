@@ -99,3 +99,7 @@ Ich hoffe, ich konnte euch ein Stück weit davon überzeugen, dass es sich lohnt
     <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux"/>
   </a>
 </p>
+
+## Tools for Linux
+
+...
