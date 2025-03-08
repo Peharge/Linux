@@ -24,7 +24,7 @@
 # Linux
 
 > [!WARNING]  
-> 🚀 Coming soon! Stay tuned for updates.
+> 🚀 Coming soon! Stay tuned for updates. Doesn't work yet
 
 Admittedly, Windows is still my primary operating system, and that isn’t going to change, at least not in the near future. It’s stable, it works, and from my perspective, it’s the best tool for many everyday tasks. However, I can’t deny that I’ve developed a deep passion for Linux, which constantly motivates me to try out new distributions and learn more.
 

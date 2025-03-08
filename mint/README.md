@@ -16,4 +16,4 @@
 # _Mint_
 
 > [!WARNING]  
-> 🚀 Coming soon! Stay tuned for updates.
+> 🚀 Coming soon! Stay tuned for updates. Doesn't work yet
