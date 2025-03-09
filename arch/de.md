@@ -53,7 +53,7 @@ This guide will help you choose the right Desktop Environment (DE) for your need
 [More about MATE](https://github.com/Peharge/Linux/tree/main/arch/de.md#mate)
 
 ### Budgie
-![Budgie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasKKTOltGl2eLXoAfSy1-VJbUvY1t8oucuA&s)
+![Budgie](https://buddiesofbudgie.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBudgie.96b499d6.jpg&w=3840&q=75)
 **When to use?**
 - Modern, elegant interface
 - Good for GNOME users who want more control
@@ -77,7 +77,7 @@ This guide will help you choose the right Desktop Environment (DE) for your need
 [More about Deepin](https://github.com/Peharge/Linux/tree/main/arch/de.md#deepin)
 
 ### Enlightenment
-![Enlightenment](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o5PuWjvXLPZ8Gq5HD897UCrtvRwzT0Cf7w&s)
+![Enlightenment](https://149366088.v2.pressablecdn.com/wp-content/uploads/2023/12/e24.png)
 **When to use?**
 - Very lightweight
 - Exceptional aesthetics and effects
