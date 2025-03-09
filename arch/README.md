@@ -16,9 +16,9 @@
 # _Arch Linux_
 
 > [!WARNING]  
-> 🚀 Coming soon! Stay tuned for updates. Doesn't work yet
+> 🚀 Coming soon! Stay tuned for updates. Doesn't work yet!!!
 
-## Table of Contents
+## Table of Contents - Doesn't work yet!!!
 
 - [Install (Arch Linux)](https://github.com/Peharge/Linux/tree/main/arch/install.md)
   - [Graphics Driver](https://github.com/Peharge/Linux/tree/main/arch/install.md#graphics-driver)
