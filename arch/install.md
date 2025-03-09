@@ -232,7 +232,7 @@ Most of you will select `Desktop` here and press `Enter`.
 
 Now you can choose which desktop environment you want to install.
 Arch doesn't really have a "default" desktop, so you can choose whatever you want.
-`Cinnamon`, `Mate`, `KDE` and `GNOME` are all popular - [Find the correct DE de.md here](de).
+`Cinnamon`, `Mate`, `KDE` and `GNOME` are all popular - [Find the correct DE de.md here](de.md).
 I'm going to choose `GNOME` for this installation. Use the up and down arrow keys to make your selection.
 Once it's light, press the `Space` bar. You should see a smll `x` in the square brackets next to your selection.
 Go ahead and press `Enter`. This will take us back to the main configuration screen.
