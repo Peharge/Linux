@@ -5,7 +5,7 @@
 </p>
 <br>
 <div align="center">
-<img alt="xpp" src="https://img.shields.io/badge/Linux-F7DF1E">
+<img alt="" src="https://img.shields.io/badge/-Red_Hat-EE0000?logo=redhat&logoColor=white">
 <img alt="tg-loerrach" src="https://img.shields.io/badge/Peharge-red">
 <br>
 <br>
