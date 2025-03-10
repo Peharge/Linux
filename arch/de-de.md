@@ -10,7 +10,7 @@ Diese Anleitung hilft dir, die passende Desktop-Umgebung (DE) für deine Anforde
 - Modernes, minimalistisches Design
 - Beste Integration mit GTK-Anwendungen
 - Gute Touchscreen-Unterstützung
-[Mehr zu GNOME](https://github.com/Peharge/Linux/tree/main/arch/de.md#gnome)
+[Mehr zu GNOME](https://www.gnome.org/)
 
 ### KDE Plasma
 ![KDE Plasma](https://yourdevice.ch/wp-content/uploads/2024/04/breeze-1695872022.webp)
@@ -18,7 +18,7 @@ Diese Anleitung hilft dir, die passende Desktop-Umgebung (DE) für deine Anforde
 - Höchste Anpassbarkeit
 - Geringer Ressourcenverbrauch im Vergleich zur Funktionsvielfalt
 - Beste Integration mit Qt-Anwendungen
-[Mehr zu KDE Plasma](https://github.com/Peharge/Linux/tree/main/arch/de.md#kde-plasma)
+[Mehr zu KDE Plasma](https://kde.org/de/plasma-desktop/)
 
 ### XFCE
 ![XFCE](https://www.debugpoint.com/wp-content/uploads/2021/02/xfce416review.jpg)
@@ -26,7 +26,7 @@ Diese Anleitung hilft dir, die passende Desktop-Umgebung (DE) für deine Anforde
 - Sehr ressourcenschonend
 - Klassisches Desktop-Layout
 - Stabil und zuverlässig
-[Mehr zu XFCE](https://github.com/Peharge/Linux/tree/main/arch/de.md#xfce)
+[Mehr zu XFCE](https://www.xfce.org/)
 
 ### LXQt
 ![LXQt](https://upload.wikimedia.org/wikipedia/commons/2/29/LXQt_2.0.0_Ambiance_screenshot.png)
@@ -34,7 +34,7 @@ Diese Anleitung hilft dir, die passende Desktop-Umgebung (DE) für deine Anforde
 - Leichtgewichtige Qt-basierte Alternative zu KDE
 - Sehr geringe RAM-Nutzung
 - Schnelle Performance auf älteren Systemen
-[Mehr zu LXQt](https://github.com/Peharge/Linux/tree/main/arch/de.md#lxqt)
+[Mehr zu LXQt](https://lxqt-project.org/)
 
 ### Cinnamon
 ![Cinnamon](https://fedoraproject.org/assets/images/spins/screenshot-cinnamon.jpg)
@@ -42,7 +42,7 @@ Diese Anleitung hilft dir, die passende Desktop-Umgebung (DE) für deine Anforde
 - Ähnlichkeit mit Windows-Oberflächen
 - Gute Performance und anpassbar
 - Perfekt für Linux Mint Nutzer
-[Mehr zu Cinnamon](https://github.com/Peharge/Linux/tree/main/arch/de.md#cinnamon)
+[Mehr zu Cinnamon](https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment))
 
 ### MATE
 ![MATE](https://ubuntu-mate.org/images/homepage/04_cupertino.png)
@@ -50,7 +50,7 @@ Diese Anleitung hilft dir, die passende Desktop-Umgebung (DE) für deine Anforde
 - Leichtgewichtige Alternative zu GNOME 2
 - Klassische Menüstruktur
 - Perfekt für ältere Hardware
-[Mehr zu MATE](https://github.com/Peharge/Linux/tree/main/arch/de.md#mate)
+[Mehr zu MATE](https://mate-desktop.org/)
 
 ### Budgie
 ![Budgie](https://buddiesofbudgie.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBudgie.96b499d6.jpg&w=3840&q=75)
@@ -58,7 +58,7 @@ Diese Anleitung hilft dir, die passende Desktop-Umgebung (DE) für deine Anforde
 - Moderne, elegante Oberfläche
 - Gut für GNOME-Nutzer, die mehr Kontrolle wollen
 - Perfekt für Solus-Nutzer
-[Mehr zu Budgie](https://github.com/Peharge/Linux/tree/main/arch/de.md#budgie)
+[Mehr zu Budgie](https://buddiesofbudgie.org/)
 
 ### Pantheon
 ![Pantheon](https://b1490832.smushcdn.com/1490832/wp-content/uploads/2018/11/elementary-OS-Juno-Desktop.jpg?lossy=2&strip=1&webp=1)
@@ -66,7 +66,7 @@ Diese Anleitung hilft dir, die passende Desktop-Umgebung (DE) für deine Anforde
 - MacOS-ähnliches Design
 - Minimalistisch und elegant
 - Perfekt für Elementary OS
-[Mehr zu Pantheon](https://github.com/Peharge/Linux/tree/main/arch/de.md#pantheon)
+[Mehr zu Pantheon](https://wiki.archlinux.org/title/Pantheon)
 
 ### Deepin
 ![Deepin](https://ubunlog.com/wp-content/uploads/2018/07/Deepin-Desktop.png)
@@ -74,7 +74,7 @@ Diese Anleitung hilft dir, die passende Desktop-Umgebung (DE) für deine Anforde
 - Optisch sehr ansprechend
 - Benutzerfreundlich und intuitiv
 - Perfekt für Neueinsteiger
-[Mehr zu Deepin](https://github.com/Peharge/Linux/tree/main/arch/de.md#deepin)
+[Mehr zu Deepin](https://www.deepin.org/en/dde/)
 
 ### Enlightenment
 ![Enlightenment](https://149366088.v2.pressablecdn.com/wp-content/uploads/2023/12/e24.png)
@@ -82,12 +82,11 @@ Diese Anleitung hilft dir, die passende Desktop-Umgebung (DE) für deine Anforde
 - Sehr leichtgewichtig
 - Außergewöhnliche Ästhetik und Effekte
 - Perfekt für experimentierfreudige Nutzer
-[Mehr zu Enlightenment](https://github.com/Peharge/Linux/tree/main/arch/de.md#enlightenment)
+[Mehr zu Enlightenment](https://www.enlightenment.org/)
 
 ### Trinity
 ![Trinity](https://linuxnews.de/wp-content/uploads/2023/10/R14-1-1.png)
 **Wann verwenden?**
 - Klassisches KDE 3-Erlebnis
 - Ideal für Nostalgiker und ältere Hardware
-[Mehr zu Trinity](https://github.com/Peharge/Linux/tree/main/arch/de.md#trinity)
-
+[Mehr zu Trinity](https://www.trinitydesktop.org/)

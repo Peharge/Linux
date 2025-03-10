@@ -15,6 +15,7 @@
 <img alt="" src="https://img.shields.io/badge/-Arch Linux-1793D1?logo=Arch-Linux&logoColor=white">
 <img alt="" src="https://img.shields.io/badge/-Linux Mint-87CF3E?logo=Linux-Mint&logoColor=white">
 <img alt="" src="https://img.shields.io/badge/-Kali Linux-557C94?logo=Kali-Linux&logoColor=white">
+<img alt="" src="https://img.shields.io/badge/-Red_Hat-EE0000?logo=redhat&logoColor=white">
 <br>
 <br>
 
