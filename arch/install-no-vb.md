@@ -134,4 +134,3 @@ Upon reboot, log in with the root account and install additional packages as nee
   ```
 
 For further customization, refer to the official [Arch Wiki](https://wiki.archlinux.org/).
-
