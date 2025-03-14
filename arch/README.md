@@ -197,3 +197,7 @@
 - [Neovim](https://github.com/Peharge/Linux/tree/main/arch/neovim/README.md)
   - [Install](https://github.com/Peharge/Linux/tree/main/arch/neovim/install-neovim.md)
   - [Update](https://github.com/Peharge/Linux/tree/main/arch/neovim/update-neovim.md)
+
+Soon more
+
+Alacritty; Kitty; WezTerm; Tilix; tmux; Konsole (KDE); Urxvt 
