@@ -18,6 +18,8 @@
 > [!WARNING]  
 > 🚀 Coming soon! Stay tuned for updates. Doesn't work yet!!!
 
+More: https://gitlab.archlinux.org/archlinux
+
 ## Table of Contents - Doesn't work yet!!!
 
 - [Install (Arch Linux)](https://github.com/Peharge/Linux/tree/main/arch/install.md)
